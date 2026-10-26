@@ -7,6 +7,8 @@ as the course material asks. Upload the module folders to users.metropolia.fi an
 
 ## My links at github pages
 
+Link to my GitHub pages site: https://ilkkamtk.github.io/software2-html-26/
+
 - [HTML and CSS](./CSS-example/example.html)
 - JS modules 1 and 2
   - [assignment 1](./js-1-2/assignment-1/assignment-1.html)
