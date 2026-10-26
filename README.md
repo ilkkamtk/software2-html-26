@@ -7,7 +7,7 @@ as the course material asks. Upload the module folders to users.metropolia.fi an
 
 ## My links at github pages
 
-- [HTML and CSS](./HTML_CSS/CSS-example/example.html)
+- [HTML and CSS](./CSS-example/example.html)
 - JS modules 1 and 2
   - [assignment 1](./js-1-2/assignment-1/assignment-1.html)
 
