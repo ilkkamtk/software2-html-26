@@ -28,5 +28,6 @@ _This list is updated automatically by the Metropolia ICT extension._
 - 1. Print to the console: ✔ completed, 1/1 test points (`js-1-2/assignment-1/assignment-1.js`)
 - 4. Sorting hat: ✔ completed, 3/3 test points (`js-1-2/assignment-4/assignment-4.js`)
 - 5. Leap year: ✔ completed, 3/3 test points (`js-1-2/assignment-5/assignment-5.js`)
+- 8. Leap years in a list: ✘ not completed yet, 0/3 test points (`js-1-2/assignment-8/assignment-8.js`)
 
 <!-- metropolia:progress:end -->
