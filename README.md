@@ -13,6 +13,7 @@ Link to my GitHub pages site: https://ilkkamtk.github.io/software2-html-26/
 - JS modules 1 and 2
   - [assignment 1](./js-1-2/assignment-1/assignment-1.html)
   - [assignment 4](./js-1-2/assignment-4/assignment-4.html)
+  - [assignment 5](./js-1-2/assignment-5/assignment-5.html)
 
 Add notes about any problems or extra features here.
 
@@ -22,9 +23,10 @@ Add notes about any problems or extra features here.
 
 _This list is updated automatically by the Metropolia ICT extension._
 
-### JS modules 1 and 2: Interactive programs and control structures (4 / 30 points)
+### JS modules 1 and 2: Interactive programs and control structures (7 / 30 points)
 
 - 1. Print to the console: ✔ completed, 1/1 test points (`js-1-2/assignment-1/assignment-1.js`)
 - 4. Sorting hat: ✔ completed, 3/3 test points (`js-1-2/assignment-4/assignment-4.js`)
+- 5. Leap year: ✔ completed, 3/3 test points (`js-1-2/assignment-5/assignment-5.js`)
 
 <!-- metropolia:progress:end -->
