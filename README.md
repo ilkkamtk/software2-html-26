@@ -36,11 +36,11 @@ _This list is updated automatically by the Metropolia ICT extension._
 - 10. Read a form: ✔ completed, 2/2 test points (`js-4/t10/10.js`)
 - 11. Picture cards with a modal: ✔ completed, 6/6 test points (`js-4/t11/11.js`)
 
-### JS module 5: AJAX (14 / 23 points)
+### JS module 5: AJAX (12 / 23 points)
 
 - 1. TV series search form: ✔ completed, 2/2 test points (`js-5/assignment-1/assignment-1.html`)
 - 2. Fetch the search results: ✔ completed, 3/3 test points (`js-5/assignment-2/assignment-2.js`)
 - 3. Show the results on the page: ✔ completed, 7/7 test points (`js-5/assignment-3/assignment-3.js`)
-- 4. Default image: ✔ completed, 2/2 test points (`js-5/assignment-4/assignment-4.js`)
+- 4. Default image: ✘ not completed yet, 0/2 test points (`js-5/assignment-4/assignment-4.js`)
 
 <!-- metropolia:progress:end -->
