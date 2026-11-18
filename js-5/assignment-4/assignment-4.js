@@ -55,7 +55,7 @@ function generateShows(shows) {
     div.innerHTML = tvShow.show.summary;
 
     const genreDiv = document.createElement('div');
-    genreDiv.innerText = 'Genres: ' + tvShow.show.genres.join(', ');
+    genreDiv.innerText = 'Genres: ' + tvShow.show.genres.join;
 
     const article = document.createElement('article');
 
