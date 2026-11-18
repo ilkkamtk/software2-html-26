@@ -1,9 +1,9 @@
 'use strict';
 
-async function getTVShows() {
+async function getTVShows(query) {
   try {
     const response = await fetch(
-      'https://api.tvmaze.com/search/shows?q=emmerdale',
+      'https://api.tvmaze.com/search/shows?q=' + query,
     );
     const shows = await response.json();
     if (!response.ok) {
@@ -16,7 +16,7 @@ async function getTVShows() {
 }
 
 async function getData() {
-  const results = await getTVShows();
+  const results = await getTVShows('Batman');
   console.log(results);
 
   for (const result of results) {
