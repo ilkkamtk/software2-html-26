@@ -57,9 +57,12 @@ function generateShows(shows) {
     const genreDiv = document.createElement('div');
     genreDiv.innerText = 'Genres: ' + tvShow.show.genres.join(', ');
 
+    const ratingDiv = document.createElement('div');
+    ratingDiv.innerText = 'Rating: ' + (tvShow.show.rating.average || 'N/A');
+
     const article = document.createElement('article');
 
-    article.append(h2, img, a, div, genreDiv);
+    article.append(h2, img, a, div, genreDiv, ratingDiv);
     results.append(article);
   }
 }
